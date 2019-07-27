@@ -1,2 +1,0 @@
-# malaria
-Group Project Repository
