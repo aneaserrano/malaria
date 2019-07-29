@@ -1,3 +1,47 @@
-<link 
+/* main.css */
 
-font-family: 'Darker Grotesque', sans-serif;
+body {
+	background: rgb(255,215,144);
+
+font-family: 'Gloria Hallelujah', cursive;
+
+
+}
+
+h1 {
+	color: black;
+}
+
+ol {
+	font-weight: bold;
+}
+
+a {
+	color: white;
+    text-decoration: none;
+}
+
+#my_nav_bar{
+	border-style: solid; 
+	border-color: white;
+}
+#my_list {
+	background: white;
+	color:black;
+}
+
+@media only screen and (max-width: 600px){}
+
+#img-float{
+	float:left;
+	margin:20px;
+	width:300px;
+}
+.p-class{
+	margin: 35px;
+	padding: 25px;
+}
+#div-float{
+	border: solid 5px pink;
+	background: rgb(222,243,253);
+}
